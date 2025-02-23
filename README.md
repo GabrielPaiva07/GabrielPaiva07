@@ -6,7 +6,7 @@ Tenho 17 anos e estou constantemente aprimorando minhas habilidades e conhecimen
 
 <div>
 <a href = "mailto:contato@gabrielvitortknmx@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href = "https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/(https://www.linkedin.com/in/gabriel-garcia-478791272/"></a>
+<a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui](https://www.linkedin.com/in/gabriel-paiva-478791272/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
 
