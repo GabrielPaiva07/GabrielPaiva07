@@ -20,10 +20,8 @@ Tenho 17 anos e estou constantemente aprimorando minhas habilidades e conhecimen
 
 ### 🏆 Estatísticas
 <div>
-
-<a href="https://github.com/GabrielPaiva07>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielPaiva07&langs_count=8"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielPaiva07&hide=contribs,prs"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielPaiva07&langs_count=8&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielPaiva07&hide=contribs,prs&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielPaiva07&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
