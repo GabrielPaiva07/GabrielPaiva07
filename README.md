@@ -12,7 +12,7 @@ Tenho 17 anos e estou constantemente aprimorando minhas habilidades e conhecimen
 
 ## Estou aprendendo
 
-<img loading="lazy" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+<img loading="lazy" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img loading="lazy" src="https://img.shields.io/badge/HTML-FF5733?style=flat&logo=html5&logoColor=white" />
 <img loading="lazy" src="https://img.shields.io/badge/CSS-0a74da?style=flat&logo=css3&logoColor=white"/>
 <img loading="lazy" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
