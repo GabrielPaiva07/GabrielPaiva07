@@ -14,6 +14,15 @@ Tenho 17 anos e estou constantemente aprimorando minhas habilidades e conhecimen
 
 
 
+
+
+
+
+
+
+
+
+
 ### 📱 Contatos:
 
 <div>
