@@ -7,8 +7,12 @@ Tenho 17 anos e estou constantemente aprimorando minhas habilidades e conhecimen
 </a>
 <a href="#">
   <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api/top-langs/?username=GabrielPaiva07&hide=html,scss,css&langs_count=8&layout=compact&theme=radical&card_width=150" />
+  <a href="#">
+    <img align="left" height=202 src="https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app/?user=Gabrielpaiva07&theme=radical"/>
 </a>
-<img align="left" height=202 src="https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app/?user=Gabrielpaiva07&theme=radical"/>
+
+
+
 
 ### 📱 Contatos:
 
