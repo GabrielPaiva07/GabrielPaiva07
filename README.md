@@ -1,6 +1,14 @@
 ## Olá, sou Gabriel Paiva, Estudante de Programação, futuramente Cursando Ciências da Computação
 Tenho 17 anos e estou constantemente aprimorando minhas habilidades e conhecimentos. A seguir, apresento algumas estatísticas sobre meus projetos e contribuições.
 
+### 🏆 Estatísticas
+<a href="#">
+  <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api?username=GabrielPaiva07&show_icons=true&theme=radical&hide=contribs,issues&show=discussions_answered&rank_icon=github&include_all_commits=true&card_width=150" />
+</a>
+<a href="#">
+  <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api/top-langs/?username=GabrielPaiva07&hide=html,scss,css&langs_count=8&layout=compact&theme=radical&card_width=150" />
+</a>
+<img align="left" height=202 src="https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app/?user=Gabrielpaiva07&theme=radical"/>
 
 ### 📱 Contatos:
 
@@ -19,13 +27,6 @@ Tenho 17 anos e estou constantemente aprimorando minhas habilidades e conhecimen
 <img loading="lazy" src="https://img.shields.io/badge/TypeScript-007acc?style=flat&logo=typescript&logoColor=white"/>
 <img loading="lazy" src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
 
-### 🏆 Estatísticas
-<a href="#">
-  <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api?username=GabrielPaiva07&show_icons=true&theme=radical&hide=contribs,issues&show=discussions_answered&rank_icon=github&include_all_commits=true&card_width=150" />
-</a>
-<a href="#">
-  <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api/top-langs/?username=GabrielPaiva07&hide=html,scss,css&langs_count=8&layout=compact&theme=radical&card_width=150" />
-</a>
-<img align="left" height=202 src="https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app/?user=blocage&theme=radical"/>
+
 
 
